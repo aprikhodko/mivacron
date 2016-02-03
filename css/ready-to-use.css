@@ -1,0 +1,112 @@
+.blue-text {
+  font-size: 30px;
+  color: #649dc8;
+  line-height: 32px;
+}
+
+.sup-2 {
+  position: relative;
+  bottom: 4px;
+}
+
+.purple-text {
+  font-size: 26px;
+  line-height: 26px;
+  color: #814c9e;
+  margin-bottom: -4%;
+}
+
+.purple-bar-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 4%;
+}
+
+.purple-bar-img {
+  width: 6.7px;
+  height: 37px;
+  position: relative;;
+  margin-right: 5px;
+  top: 10px;
+}
+
+.purple-bar-text {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.purple-bar-text p {
+  font-size: 18px;
+  line-height: 22px;
+  padding-left: 8px;
+}
+
+.horiz-list {
+  margin: -4% 1% -2%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.horiz-list ul {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.horiz-list li {
+  margin: 3%;
+}
+
+.ready-to-use-img img {
+  width: 410px;
+  height: auto;
+}
+
+.sm-text {
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: bold;
+}
+
+.main-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.left-columnn-2 {
+  float: left;
+}
+
+.right-column-2 {
+  width: 308px;
+  float: right;
+}
+
+.scrolling-wrap {
+  width: 234px;
+}
+
+.timing-is-key {
+  width: 234px;
+}
+
+.timing-is-key-list ul {
+  list-style: none;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.short-act-logo {
+  width: 195px;
+  height: 58px;
+  float: right;
+}

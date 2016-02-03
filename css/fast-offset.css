@@ -1,0 +1,126 @@
+.blue-text {
+  color: #649dc8;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+.smaller-header {
+  font-size: 17px;
+  line-height: 20px;
+}
+
+.recovery-index {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 16px;
+  line-height: 16px;
+  margin: -30px 0;
+}
+
+.recovery-index button {
+  background-color: #814c9e;
+  color: white;
+  border-style: none;
+  border-radius: 8px;
+  width: 73px;
+  height: 28px;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 2px;
+  margin: 20px 30px;
+}
+
+.purple-bar-text-img {
+  width: 6.7px;
+  height: 37px;
+  margin-right: 13px;
+  position: relative;
+  top: 15px;
+}
+
+.purple-btn {
+  width: 73px;
+  height: auto;
+  position: relative;
+  left: 40px;
+  top: 10px;
+}
+
+.mivacron-reverse {
+  width: 481px;
+  margin-left: 20px;
+  padding-top: 10px;
+}
+
+.fast-offset-animation {
+  position: absolute;
+  left: 190px;
+  bottom: 190px;
+}
+
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .fast-offset-animation {
+      position: absolute;
+      bottom: 450px;
+      right: 40px;
+    }
+  }
+
+.fast-offset-graph-wrap {
+  width: 500px;
+  height: 350px;
+  margin-top: 4%;
+}
+
+.mivacron-asterisk {
+  margin: 9% 3%;
+  max-width: 558px;
+}
+
+.footer-btn {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer-btn p {
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.main-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.left-columnn-2 {
+  float: left;
+}
+
+.right-column-3 {
+  width: 195px;
+  height: 100%;
+  float: right;
+  margin-left: 7%;
+}
+
+.logo{
+  position: absolute;
+  top: 100;
+  left: 100;
+  float: right;
+}
+
+.short-act-logo {
+  width: 195px;
+  height: 58px;
+}
